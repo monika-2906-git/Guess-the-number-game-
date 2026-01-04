@@ -1,4 +1,4 @@
-﻿# Guess-the-number-game-
+﻿# Guess-the-number-game
  A simple Python command-line game where the computer randomly selects a number and the user tries to guess it. The game provides hints until the correct number is guessed or the user quits.
  
 📌 Project Description
@@ -17,4 +17,5 @@ Guess higher
 Guess lower
 Infinite attempts until success
 Simple and interactive command-line gameplay
+
 

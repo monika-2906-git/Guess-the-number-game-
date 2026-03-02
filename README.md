@@ -8,6 +8,7 @@ User input handling
 Conditional statements
 Loops and game logic
 The program randomly generates a number between 1 and 100, and the player keeps guessing until they find the correct number.
+It is made as beginner friendly mini project
 
 🚀 Features
 
@@ -17,5 +18,6 @@ Guess higher
 Guess lower
 Infinite attempts until success
 Simple and interactive command-line gameplay
+
 
 
